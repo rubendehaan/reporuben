@@ -1,7 +1,7 @@
 # About
 
-![](../images/perezoso.jpg)
+![](../images/profiel.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+My name is Ruben de Haan and last september 10th I moved from my hometown Rouveen, NL to Barcelona, ES to pursue the MDEF (Master in Design for Emergent Futures) at the Institute for Advanced Architecture of Catalonia. With this website I aim to document my learnings and experiences.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit **[my website](https://community.emergentfutures.io/courses/5566525/content)**
+**[my website](https://community.emergentfutures.io/courses/5566525/content)**
