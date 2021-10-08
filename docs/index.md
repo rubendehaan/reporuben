@@ -1,5 +1,5 @@
-## Welcome
+## Hi!
 
-![](../images/perezoso.jpg)
+![](../images/tpg.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hi. My name is Ruben and I participate in the Master in Design for Emergent Futures program at the Institute for Advanced Architecture of Catalonia in Barcelona, Spain. With this website I keep track of my findings, progression, reflections and encounters that I experience along this course. Thanks for joining me!
